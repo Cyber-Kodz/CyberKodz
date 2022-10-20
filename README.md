@@ -1,2 +1,2 @@
 # CyberKodz
-"CyberKodz" tgit status
+"CyberKodz" git status
